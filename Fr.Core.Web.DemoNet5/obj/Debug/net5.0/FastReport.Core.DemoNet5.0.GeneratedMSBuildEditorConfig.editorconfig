@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = FastReport.Core.DemoNet5.0
+build_property.ProjectDir = C:\Users\Skilletron\Desktop\DEMO\FR.CORE.DEMO.NET5.0\Fr.Core.Web.DemoNet5\

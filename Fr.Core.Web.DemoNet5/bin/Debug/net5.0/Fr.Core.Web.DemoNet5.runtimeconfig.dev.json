@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Skilletron\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Skilletron\\.nuget\\packages"
+    ]
+  }
+}

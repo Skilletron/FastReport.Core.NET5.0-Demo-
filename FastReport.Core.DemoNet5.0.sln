@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FastReport.Core.DemoNet5.0", "Fr.Core.Web.DemoNet5\FastReport.Core.DemoNet5.0.csproj", "{0CF3E731-DC59-40F9-B056-8F4AFCB3EC08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Academic|Any CPU = Academic|Any CPU
+		Basic|Any CPU = Basic|Any CPU
+		Community|Any CPU = Community|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Demo|Any CPU = Demo|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Test|Any CPU = Test|Any CPU
+		WinForms|Any CPU = WinForms|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CF3E731-DC59-40F9-B056-8F4AFCB3EC08}.Academic|Any CPU.ActiveCfg = Release|Any CPU
+		{0CF3E731-DC59-40F9-B056-8F4AFCB3EC08}.Academic|Any CPU.Build.0 = Release|Any CPU
+		{0CF3E731-DC59-40F9-B056-8F4AFCB3EC08}.Basic|Any CPU.ActiveCfg = Release|Any CPU
+		{0CF3E731-DC59-40F9-B056-8F4AFCB3EC08}.Basic|Any CPU.Build.0 = Release|Any CPU
+		{0CF3E731-DC59-40F9-B056-8F4AFCB3EC08}.Community|Any CPU.ActiveCfg = Release|Any CPU
+		{0CF3E731-DC59-40F9-B056-8F4AFCB3EC08}.Community|Any CPU.Build.0 = Release|Any CPU
+		{0CF3E731-DC59-40F9-B056-8F4AFCB3EC08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CF3E731-DC59-40F9-B056-8F4AFCB3EC08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CF3E731-DC59-40F9-B056-8F4AFCB3EC08}.Demo|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CF3E731-DC59-40F9-B056-8F4AFCB3EC08}.Demo|Any CPU.Build.0 = Debug|Any CPU
+		{0CF3E731-DC59-40F9-B056-8F4AFCB3EC08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CF3E731-DC59-40F9-B056-8F4AFCB3EC08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CF3E731-DC59-40F9-B056-8F4AFCB3EC08}.Test|Any CPU.ActiveCfg = Release|Any CPU
+		{0CF3E731-DC59-40F9-B056-8F4AFCB3EC08}.Test|Any CPU.Build.0 = Release|Any CPU
+		{0CF3E731-DC59-40F9-B056-8F4AFCB3EC08}.WinForms|Any CPU.ActiveCfg = Release|Any CPU
+		{0CF3E731-DC59-40F9-B056-8F4AFCB3EC08}.WinForms|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DA790CA-F523-4449-B39B-2B529A0C04A5}
+	EndGlobalSection
+EndGlobal

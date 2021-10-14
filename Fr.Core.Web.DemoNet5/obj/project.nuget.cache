@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "8W77+S62IyLKEw5xPYFGBSfww51EepjV560qMgfOW5UEsjcr0U78CRGpHOaWBOa2DCWL7nnH2HFxJbhQtQ6OHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Skilletron\\Desktop\\DEMO\\FR.CORE.DEMO.NET5.0\\Fr.Core.Web.DemoNet5\\FastReport.Core.DemoNet5.0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Skilletron\\.nuget\\packages\\fastreport.compat\\2021.3.0\\fastreport.compat.2021.3.0.nupkg.sha512",
+    "C:\\Users\\Skilletron\\.nuget\\packages\\fastreport.core\\2021.4.8-demo\\fastreport.core.2021.4.8-demo.nupkg.sha512",
+    "C:\\Users\\Skilletron\\.nuget\\packages\\fastreport.datavisualization\\2021.3.0\\fastreport.datavisualization.2021.3.0.nupkg.sha512",
+    "C:\\Users\\Skilletron\\.nuget\\packages\\fastreport.web\\2021.4.8-demo\\fastreport.web.2021.4.8-demo.nupkg.sha512",
+    "C:\\Users\\Skilletron\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\2.9.4\\microsoft.codeanalysis.analyzers.2.9.4.nupkg.sha512",
+    "C:\\Users\\Skilletron\\.nuget\\packages\\microsoft.codeanalysis.common\\3.3.1\\microsoft.codeanalysis.common.3.3.1.nupkg.sha512",
+    "C:\\Users\\Skilletron\\.nuget\\packages\\microsoft.codeanalysis.csharp\\3.3.1\\microsoft.codeanalysis.csharp.3.3.1.nupkg.sha512",
+    "C:\\Users\\Skilletron\\.nuget\\packages\\microsoft.codeanalysis.visualbasic\\3.3.1\\microsoft.codeanalysis.visualbasic.3.3.1.nupkg.sha512",
+    "C:\\Users\\Skilletron\\.nuget\\packages\\microsoft.netcore.platforms\\3.0.0\\microsoft.netcore.platforms.3.0.0.nupkg.sha512",
+    "C:\\Users\\Skilletron\\.nuget\\packages\\microsoft.win32.systemevents\\4.6.0\\microsoft.win32.systemevents.4.6.0.nupkg.sha512",
+    "C:\\Users\\Skilletron\\.nuget\\packages\\system.collections.immutable\\1.5.0\\system.collections.immutable.1.5.0.nupkg.sha512",
+    "C:\\Users\\Skilletron\\.nuget\\packages\\system.drawing.common\\4.6.1\\system.drawing.common.4.6.1.nupkg.sha512",
+    "C:\\Users\\Skilletron\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Skilletron\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\Skilletron\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\Skilletron\\.nuget\\packages\\system.security.accesscontrol\\4.4.0\\system.security.accesscontrol.4.4.0.nupkg.sha512",
+    "C:\\Users\\Skilletron\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\Skilletron\\.nuget\\packages\\system.security.cryptography.pkcs\\4.5.2\\system.security.cryptography.pkcs.4.5.2.nupkg.sha512",
+    "C:\\Users\\Skilletron\\.nuget\\packages\\system.security.permissions\\4.4.0\\system.security.permissions.4.4.0.nupkg.sha512",
+    "C:\\Users\\Skilletron\\.nuget\\packages\\system.security.principal.windows\\4.4.0\\system.security.principal.windows.4.4.0.nupkg.sha512",
+    "C:\\Users\\Skilletron\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512",
+    "C:\\Users\\Skilletron\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.3\\system.threading.tasks.extensions.4.5.3.nupkg.sha512",
+    "C:\\Users\\Skilletron\\.nuget\\packages\\system.windows.extensions\\4.6.0\\system.windows.extensions.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
